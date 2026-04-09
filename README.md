@@ -2,7 +2,7 @@
 
 A beautiful and simple expense tracking web app built with Python and Streamlit.
 
-![SpendWise Preview](Screenshot 2026-04-09 163813.png)
+![SpendWise Preview](<img width="1789" height="962" alt="Screenshot 2026-04-09 163813" src="https://github.com/user-attachments/assets/9b384e70-d629-4fdc-a6f6-82025cbbb7f0" />)
 
 ## ✨ Features
 
